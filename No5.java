@@ -11,7 +11,7 @@ package UTSTeori2024;
  */
 public class No5 {
     public static void main(String[] args) {
-        int jumlahKelinci = 6; 
+        int jumlahKelinci = 8; 
         int totalEars = countBunnyEars(jumlahKelinci);
         System.out.println("Jumlah telinga semua kelinci: " + totalEars);
     }
